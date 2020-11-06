@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "fr-fr"
-DefaultContentLanguage  = "en"
+# DefaultContentLanguage  = "en"
 summaryLength = "20"
 theme = "hugo-future"
 title = "Les apprentis marketeux"
