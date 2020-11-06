@@ -4,5 +4,5 @@ languageCode = "fr-fr"
 paginate = 10
 summaryLength = "20"
 #theme = "Hargo"
-title = "Le blog du Marketer"
-url = "https://stupefied-rosalind-bc906f.netlify.app/"
+title = "Les apprentis marketeux"
+url = "https://lesapprentismarketeux.netlify.app/"
