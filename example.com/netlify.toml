@@ -1,4 +1,0 @@
-publish = "public"
-command = "hugo --minify"
-HUGO_VERSION = "0.75.1"
-
