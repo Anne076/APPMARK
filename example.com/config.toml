@@ -3,6 +3,6 @@ disqusShortname = ""
 languageCode = "fr-fr"
 paginate = 10
 summaryLength = "20"
-#theme = "Hargo"
+#theme = "hugo-future"
 title = "Les apprentis marketeux"
 url = "https://lesapprentismarketeux.netlify.app/"
