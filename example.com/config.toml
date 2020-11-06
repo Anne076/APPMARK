@@ -2,7 +2,6 @@ baseURL = "/"
 disqusShortname = ""
 languageCode = "fr-fr"
 DefaultContentLanguage  = "en"
-paginate = 10
 summaryLength = "20"
 theme = "hugo-future"
 title = "Les apprentis marketeux"
