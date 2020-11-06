@@ -1,5 +1,6 @@
 baseURL = "/"
 languageCode = "fr-fr"
+DefaultContentLanguage  = "fr"
 summaryLength = "20"
 theme = "hugo-future"
 title = "Les apprentis marketeux"
@@ -9,6 +10,7 @@ disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
+ignoreErrors = ["error-remote-getjson"]
 
 [markup.goldmark.renderer]
   unsafe                = true
