@@ -6,25 +6,3 @@ command = "hugo --minify"
 HUGO_VERSION = "0.77.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-
-[context.split1]
-command = "hugo --minify --enableGitInfo"
-
-[context.split1.environment]
-HUGO_VERSION = "0.77.0"
-HUGO_ENV = "production"
-
-[context.deploy-preview]
-command = "hugo --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.77.0"
-
-[context.branch-deploy]
-command = "hugo --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.77.0"
-
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
