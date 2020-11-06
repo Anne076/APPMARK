@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "fr-fr"
 summaryLength = "20"
-#theme = "hugo-future"
+theme = "hugo-future"
 title = "Les apprentis marketeux"
 url = "https://lesapprentismarketeux.netlify.app/"
 paginate                = 3
