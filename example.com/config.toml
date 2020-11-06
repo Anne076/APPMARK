@@ -1,5 +1,4 @@
 baseURL = "/"
-disqusShortname = ""
 languageCode = "fr-fr"
 DefaultContentLanguage  = "en"
 summaryLength = "20"
