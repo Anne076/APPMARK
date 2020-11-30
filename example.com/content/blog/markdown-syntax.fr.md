@@ -6,16 +6,9 @@ description = "Exemple d'article présentant la syntaxe et le formatage de base 
 tags = ["markdown", "css", "html", "themes"]
 title = "Guide de syntaxe de Markdown test"
 [[images]]
-alt = "Mountain Range Through Clouds"
-src = "img/2019/03/pic01.jpg"
-stretch = "horizontal"
-[[images]]
-alt = "Desert Scene"
-src = "img/2019/03/pic02.jpg"
-[[images]]
-alt = "Valley"
-src = "img/2019/03/pic03.jpg"
-stretch = "horizontal"
+alt = "sucess"
+src = "/uploads/photo-projet-2.jpg"
+stretch = "Vertical"
 
 +++
 Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.
