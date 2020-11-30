@@ -8,7 +8,7 @@ title = "Guide de syntaxe de Markdown test"
 [[images]]
 alt = "sucess"
 src = "photo-projet-2.jpg"
-stretch = "Vertical"
+stretch = ""
 
 +++
 Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.
