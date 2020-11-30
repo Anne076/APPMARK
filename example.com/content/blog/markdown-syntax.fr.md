@@ -7,7 +7,7 @@ draft = true
 tags = ["markdown", "css", "html", "themes"]
 title = "Guide de syntaxe de Markdown test"
 [[images]]
-alt = "sucess"
+alt = ""
 src = "photo-projet-2.jpg"
 stretch = "stretchH"
 
