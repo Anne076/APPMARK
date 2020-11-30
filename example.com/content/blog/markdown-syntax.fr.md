@@ -7,7 +7,7 @@ tags = ["markdown", "css", "html", "themes"]
 title = "Guide de syntaxe de Markdown test"
 [[images]]
 alt = "sucess"
-src = "/uploads/photo-projet-2.jpg"
+src = "photo-projet-2.jpg"
 stretch = "Vertical"
 
 +++
